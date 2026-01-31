@@ -8,7 +8,7 @@ pipeline {
     }
 
     tools {
-        nodejs 'NodeJS 25'  // Matches Global Tools name; change to 'NodeJS-20' or 'NodeJS-25' if configured
+        nodejs 'NodeJS 20'  // Matches Global Tools name; change to 'NodeJS-20' or 'NodeJS-25' if configured
     }
 
     stages {
